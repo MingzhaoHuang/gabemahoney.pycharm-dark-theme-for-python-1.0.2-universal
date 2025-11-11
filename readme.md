@@ -24,7 +24,8 @@ https://www.jetbrains.com/lp/mono/
 
 ## Credits
 
-This theme is a fork of [Jetbrains Dark Theme](https://github.com/mobalti/jetbrains-dark-theme) by [Mo Balić](https://github.com/mobalti).
+This theme is a fork of [Jetbrains Dark Theme](https://github.com/mobalti/jetbrains-dark-theme) by [Mo Balić](https://github.com/mobalti),
+with modifications made by Mingzhao Huang to adapt it for R usage in Positron.
 
 ## License
 
